@@ -536,7 +536,7 @@ public class Start extends Application {
 				File file = ExcelHandlerReadAndWrite.createNewExcelSheets(table.getItems());
 
 				openFileInDesktop(file, acceptedExcelFileOpenBtn, printBtn);
-				
+
 			} else {
 				Stage stage2 = new Stage();
 				Scene scene2 = new Scene(new Group(), 200, 100);
