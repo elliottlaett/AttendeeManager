@@ -1,5 +1,2 @@
 # AttendeeManager
-Reads from an excel file and prints it out due to the grouping of the users choice. This project is made in JavaFX.
-The program is only sorting on grade of an attendee for the moment and is going to be updated soon.
-
-The program is working but contains bugs atm.
+Reads from an excel file and prints out the data into tables due to the grouping of the users choice. This project is made in JavaFX and will create three different tables where the user can drag-and-drop the attendees between the different tables and then print the tables to excel files. The program is only sorting on the grade of an attendee for the moment and is going to be updated soon so that the user can group by program aswell. The application is working but contains bugs atm soon to be fixed.
